@@ -1,0 +1,26 @@
+{
+  "TextBox1Text": "Привет\r\n\r\nПока\r\n\r\n",
+  "TextBox2Text": "\r\nПривет\r\n\r\nБай-бай\r\n",
+  "Images": [
+    {
+      "ImagePath": "ForMessagesGREEN.png",
+      "Left": 0.0,
+      "Top": -4.0
+    },
+    {
+      "ImagePath": "ForMessagesGREEN.png",
+      "Left": 520.0,
+      "Top": 32.0
+    },
+    {
+      "ImagePath": "ForMessagesGREEN.png",
+      "Left": 0.0,
+      "Top": 68.0
+    },
+    {
+      "ImagePath": "ForMessagesGREEN.png",
+      "Left": 520.0,
+      "Top": 104.0
+    }
+  ]
+}

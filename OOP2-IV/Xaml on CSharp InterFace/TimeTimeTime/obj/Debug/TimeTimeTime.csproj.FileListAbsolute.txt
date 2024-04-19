@@ -1,0 +1,51 @@
+X:\Programming II\Хамл\TimeTimeTime\bin\Debug\TimeTimeTime.exe.config
+X:\Programming II\Хамл\TimeTimeTime\bin\Debug\TimeTimeTime.exe
+X:\Programming II\Хамл\TimeTimeTime\bin\Debug\TimeTimeTime.pdb
+X:\Programming II\Хамл\TimeTimeTime\obj\Debug\TimeTimeTime.csproj.AssemblyReference.cache
+X:\Programming II\Хамл\TimeTimeTime\obj\Debug\MainWindow.g.cs
+X:\Programming II\Хамл\TimeTimeTime\obj\Debug\App.g.cs
+X:\Programming II\Хамл\TimeTimeTime\obj\Debug\TimeTimeTime_MarkupCompile.cache
+X:\Programming II\Хамл\TimeTimeTime\obj\Debug\TimeTimeTime_MarkupCompile.lref
+X:\Programming II\Хамл\TimeTimeTime\obj\Debug\MainWindow.baml
+X:\Programming II\Хамл\TimeTimeTime\obj\Debug\TimeTimeTime.g.resources
+X:\Programming II\Хамл\TimeTimeTime\obj\Debug\TimeTimeTime.Properties.Resources.resources
+X:\Programming II\Хамл\TimeTimeTime\obj\Debug\TimeTimeTime.csproj.GenerateResource.cache
+X:\Programming II\Хамл\TimeTimeTime\obj\Debug\TimeTimeTime.csproj.CoreCompileInputs.cache
+X:\Programming II\Хамл\TimeTimeTime\obj\Debug\TimeTimeTime.exe
+X:\Programming II\Хамл\TimeTimeTime\obj\Debug\TimeTimeTime.pdb
+X:\Programming II\Хамл\TimeTimeTime\bin\Debug\NuGet.Frameworks.dll
+X:\Programming II\Хамл\TimeTimeTime\obj\Debug\TimeTimeTime.csproj.CopyComplete
+X:\Programming II\OOP2-IV\Xaml\TimeTimeTime\bin\Debug\TimeTimeTime.exe.config
+X:\Programming II\OOP2-IV\Xaml\TimeTimeTime\bin\Debug\TimeTimeTime.exe
+X:\Programming II\OOP2-IV\Xaml\TimeTimeTime\bin\Debug\TimeTimeTime.pdb
+X:\Programming II\OOP2-IV\Xaml\TimeTimeTime\bin\Debug\NuGet.Frameworks.dll
+X:\Programming II\OOP2-IV\Xaml\TimeTimeTime\obj\Debug\TimeTimeTime.csproj.AssemblyReference.cache
+X:\Programming II\OOP2-IV\Xaml\TimeTimeTime\obj\Debug\MainWindow.g.cs
+X:\Programming II\OOP2-IV\Xaml\TimeTimeTime\obj\Debug\App.g.cs
+X:\Programming II\OOP2-IV\Xaml\TimeTimeTime\obj\Debug\TimeTimeTime_MarkupCompile.cache
+X:\Programming II\OOP2-IV\Xaml\TimeTimeTime\obj\Debug\TimeTimeTime_MarkupCompile.lref
+X:\Programming II\OOP2-IV\Xaml\TimeTimeTime\obj\Debug\MainWindow.baml
+X:\Programming II\OOP2-IV\Xaml\TimeTimeTime\obj\Debug\TimeTimeTime.g.resources
+X:\Programming II\OOP2-IV\Xaml\TimeTimeTime\obj\Debug\TimeTimeTime.Properties.Resources.resources
+X:\Programming II\OOP2-IV\Xaml\TimeTimeTime\obj\Debug\TimeTimeTime.csproj.GenerateResource.cache
+X:\Programming II\OOP2-IV\Xaml\TimeTimeTime\obj\Debug\TimeTimeTime.csproj.CoreCompileInputs.cache
+X:\Programming II\OOP2-IV\Xaml\TimeTimeTime\obj\Debug\TimeTimeTime.csproj.CopyComplete
+X:\Programming II\OOP2-IV\Xaml\TimeTimeTime\obj\Debug\TimeTimeTime.exe
+X:\Programming II\OOP2-IV\Xaml\TimeTimeTime\obj\Debug\TimeTimeTime.pdb
+X:\Programming II\OOP2-IV\Xaml on CSharp InterFace\TimeTimeTime\bin\Debug\TimeTimeTime.exe.config
+X:\Programming II\OOP2-IV\Xaml on CSharp InterFace\TimeTimeTime\bin\Debug\TimeTimeTime.exe
+X:\Programming II\OOP2-IV\Xaml on CSharp InterFace\TimeTimeTime\bin\Debug\TimeTimeTime.pdb
+X:\Programming II\OOP2-IV\Xaml on CSharp InterFace\TimeTimeTime\bin\Debug\NuGet.Frameworks.dll
+X:\Programming II\OOP2-IV\Xaml on CSharp InterFace\TimeTimeTime\obj\Debug\TimeTimeTime.csproj.AssemblyReference.cache
+X:\Programming II\OOP2-IV\Xaml on CSharp InterFace\TimeTimeTime\obj\Debug\MainWindow.g.cs
+X:\Programming II\OOP2-IV\Xaml on CSharp InterFace\TimeTimeTime\obj\Debug\App.g.cs
+X:\Programming II\OOP2-IV\Xaml on CSharp InterFace\TimeTimeTime\obj\Debug\TimeTimeTime_MarkupCompile.cache
+X:\Programming II\OOP2-IV\Xaml on CSharp InterFace\TimeTimeTime\obj\Debug\TimeTimeTime_MarkupCompile.lref
+X:\Programming II\OOP2-IV\Xaml on CSharp InterFace\TimeTimeTime\obj\Debug\MainWindow.baml
+X:\Programming II\OOP2-IV\Xaml on CSharp InterFace\TimeTimeTime\obj\Debug\TimeTimeTime.g.resources
+X:\Programming II\OOP2-IV\Xaml on CSharp InterFace\TimeTimeTime\obj\Debug\TimeTimeTime.Properties.Resources.resources
+X:\Programming II\OOP2-IV\Xaml on CSharp InterFace\TimeTimeTime\obj\Debug\TimeTimeTime.csproj.GenerateResource.cache
+X:\Programming II\OOP2-IV\Xaml on CSharp InterFace\TimeTimeTime\obj\Debug\TimeTimeTime.csproj.CoreCompileInputs.cache
+X:\Programming II\OOP2-IV\Xaml on CSharp InterFace\TimeTimeTime\obj\Debug\TimeTimeTime.csproj.CopyComplete
+X:\Programming II\OOP2-IV\Xaml on CSharp InterFace\TimeTimeTime\obj\Debug\TimeTimeTime.exe
+X:\Programming II\OOP2-IV\Xaml on CSharp InterFace\TimeTimeTime\obj\Debug\TimeTimeTime.pdb

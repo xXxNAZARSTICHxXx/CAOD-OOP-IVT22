@@ -1,0 +1,17 @@
+X:\Programming II\Хамл\TimeTimeTime\bin\Release\TimeTimeTime.exe.config
+X:\Programming II\Хамл\TimeTimeTime\bin\Release\TimeTimeTime.exe
+X:\Programming II\Хамл\TimeTimeTime\bin\Release\TimeTimeTime.pdb
+X:\Programming II\Хамл\TimeTimeTime\obj\Release\TimeTimeTime.csproj.AssemblyReference.cache
+X:\Programming II\Хамл\TimeTimeTime\obj\Release\MainWindow.g.cs
+X:\Programming II\Хамл\TimeTimeTime\obj\Release\App.g.cs
+X:\Programming II\Хамл\TimeTimeTime\obj\Release\TimeTimeTime_MarkupCompile.cache
+X:\Programming II\Хамл\TimeTimeTime\obj\Release\TimeTimeTime_MarkupCompile.lref
+X:\Programming II\Хамл\TimeTimeTime\obj\Release\MainWindow.baml
+X:\Programming II\Хамл\TimeTimeTime\obj\Release\TimeTimeTime.g.resources
+X:\Programming II\Хамл\TimeTimeTime\obj\Release\TimeTimeTime.Properties.Resources.resources
+X:\Programming II\Хамл\TimeTimeTime\obj\Release\TimeTimeTime.csproj.GenerateResource.cache
+X:\Programming II\Хамл\TimeTimeTime\obj\Release\TimeTimeTime.csproj.CoreCompileInputs.cache
+X:\Programming II\Хамл\TimeTimeTime\obj\Release\TimeTimeTime.exe
+X:\Programming II\Хамл\TimeTimeTime\obj\Release\TimeTimeTime.pdb
+X:\Programming II\Хамл\TimeTimeTime\bin\Release\NuGet.Frameworks.dll
+X:\Programming II\Хамл\TimeTimeTime\obj\Release\TimeTimeTime.csproj.CopyComplete

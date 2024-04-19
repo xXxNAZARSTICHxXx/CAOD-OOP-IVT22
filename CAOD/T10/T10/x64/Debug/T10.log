@@ -1,0 +1,8 @@
+﻿  T10.cpp
+X:\Programming II\CAOD\T10\T10\T10.cpp(34,24): warning C4244: аргумент: преобразование "double" в "const T", возможна потеря данных
+X:\Programming II\CAOD\T10\T10\T10.cpp(34,24): warning C4244:         with
+X:\Programming II\CAOD\T10\T10\T10.cpp(34,24): warning C4244:         [
+X:\Programming II\CAOD\T10\T10\T10.cpp(34,24): warning C4244:             T=int
+X:\Programming II\CAOD\T10\T10\T10.cpp(34,24): warning C4244:         ]
+  LINK : не найден или не выполнена сборка X:\Programming II\CAOD\T10\T10\x64\Debug\T10.exe при последней инкрементной компоновке; выполняется полная компоновка
+  T10.vcxproj -> X:\Programming II\CAOD\T10\T10\x64\Debug\T10.exe
